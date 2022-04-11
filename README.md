@@ -1,1 +1,1 @@
-# Sneakers-store---product-page
+# Product page for Sneakers store
